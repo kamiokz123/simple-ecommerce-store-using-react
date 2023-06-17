@@ -1,0 +1,129 @@
+{
+    "categories":[
+        {"id":1,"title":"fridges"},
+        {"id":2,"title":"kettels"},
+        {"id":3,"title":"Tellivisions"}
+    ],
+    "products":[
+        {
+            "id":1,
+            "catId":1,
+            "title":"beko white fridge freezer",
+            "productCode":1234,
+            "image": "g1.jpg",
+            "price" : 160 ,
+            "sku" : 4321,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 20
+    },
+        {
+            "id":2,
+            "catId":1,
+            "title":"whirl pool white fridge freezer",
+            "productCode":1235,
+            "image": "g2.jpg",
+            "price" : 170 ,
+            "sku" : 4322,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 2
+        },
+        {
+            "id":3,
+            "catId":1,
+            "title":"black pool black and white fridge freezer",
+            "productCode":1236,
+            "image": "g3.jpg",
+            "price" : 180 ,
+            "sku" : 4323,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 5
+        },
+        {
+            "id":4,
+            "catId":1,
+            "title":"red pool red and black fridge freezer",
+            "productCode":1237,
+            "image": "g4.jpg",
+            "price" : 200 ,
+            "sku" : 4324,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 0
+        },
+        {
+            "id":5,
+            "catId":1,
+            "title":"grey pool grey and black fridge freezer",
+            "productCode":1238,
+            "image": "g5.jpg",
+            "price" : 204 ,
+            "sku" : 4325,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 0
+        },
+        {
+            "id":6,
+            "catId":3,
+            "title":"smart tv samsung hd screen 32 inches with hd display",
+            "productCode":1238,
+            "image": "t1.jpg",
+            "price" : 400 ,
+            "sku" : 4326,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 10
+        },
+        {
+            "id":7,
+            "catId":3,
+            "title":"smart tv inginix hd screen 52 inches with hd display",
+            "productCode":1239,
+            "image": "t2.jpg",
+            "price" : 500 ,
+            "sku" : 4327,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 15
+        },
+        {
+            "id":8,
+            "catId":3,
+            "title":"smart tv kenwwod hd screen 102 inches with hd display",
+            "productCode":12310,
+            "image": "t3.jpg",
+            "price" : 600 ,
+            "sku" : 4328,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 0
+        },
+        {
+            "id":9,
+            "catId":3,
+            "title":"smart tv LG hd screen 62 inches with hd display",
+            "productCode":12311,
+            "image": "t4.jpg",
+            "price" : 450 ,
+            "sku" : 4329,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 20
+        },
+        {
+            "id":10,
+            "catId":3,
+            "title":"smart tv LG ultra high hd screen 62 inches with hd display",
+            "productCode":12312,
+            "image": "t5.jpg",
+            "price" : 510 ,
+            "sku" : 43210,
+            "description" : "this product is good and gantastic you should have to try this product",
+            "spec": {"dimensions": "84.5 x 55.3 x 50.4 cm (H x W x D)", "capasity":"150 liters"},
+            "stock" : 30
+        }
+    ]
+}
